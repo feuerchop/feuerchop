@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feuerchop
 - 👀 I’m a researcher / engineer / problem solver
-- 🌱 I’m interested at machine learning and AI in general
+- 🌱 I’m interested at (adversarial) machine learning, AI safety and ML in general
 - 💞️ I’m looking to collaborate on insipring ideas/projects in ML
 
 <!---
